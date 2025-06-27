@@ -1,2 +1,2 @@
-# aboutme
+# about me
 Entry-level Java developer with a strong foundation in software development and web design. Proficient in java, SQL, C#, HTML, CSS, and Javascript, with hands-on experience developing scalable applications. Eager to contribute to cloud-based projects using AWS and continiously improve through mentorship and collaboration. Committed to writing clean, maintainable code and enhancing performance of any project.
